@@ -6,3 +6,6 @@ build
 
 # Ignore Kotlin plugin data
 .kotlin
+
+# Never keep signing keys inside the repository
+private-key.asc
